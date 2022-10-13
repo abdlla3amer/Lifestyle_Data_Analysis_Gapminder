@@ -1,7 +1,7 @@
 # Lifestyle Data Analysis - Gapminder
 
 ## Project Overview:
-Gapminder has collected a lot of information about how people live their lives in di􀁷erent countries, tracked across the years, and on a number of different indicators.
+Gapminder has collected a lot of information about how people live their lives in different countries, tracked across the years, and on a number of different indicators.
 
 
 ## Data License and Attribution:
