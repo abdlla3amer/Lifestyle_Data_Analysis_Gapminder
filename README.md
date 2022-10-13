@@ -10,7 +10,7 @@ FREE DATA FROM WORLD BANK VIA GAPMINDER.ORG, CC-BY LICENSE
 
 ## Task:
 The purpose of this project is to collect, explore and analyse data about three lifestyle indicators from [Gapminder](https://www.gapminder.org/data/).<br><br>
-<b>Idicators analysed in this project:</b><br>
+<b>Indicators analysed in this project:</b><br>
 1. Children per woman (total fertility rate).
 2. Child Mortality Rate.
 3. Employment rate % (females aged 15+).
